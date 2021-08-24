@@ -14,11 +14,11 @@ Follow the steps below to fix it.
 
 ## Add account to sourcetree
 1. I am using sourcetree mac app.
-2. Find your Github account
-Auth Type: `Basic`
-Username: Enter your user name. For me its `wuduhren`.
-Password: Enter the access tocken you get in the last step.
-Protocal: `SSH`
+2. Find your Github account  
+Auth Type: `Basic`  
+Username: Enter your user name. For me its `wuduhren`.  
+Password: Enter the access tocken you get in the last step.  
+Protocal: `SSH`  
 3. Click `Copy to Clipboard`. Keep this public key. Something like below:
   ```
   ssh-rsa AAAAB3NzaC1yc2EAAAADAQAfgks6AQDBfiR2y+gH7bcMdZodXpK2fI0BCGm+TvWB1QNwGlu+3JX1chFE7C+LVIkg6KlJVNHg+Q/BE3ljI1KoPvPu0bFs4DXHYZMtJTZ7cmwjtWBldsnTUd0/Sgo/agmvvvyU7jKWCy2+PJlRdyeHM7/X5FFFiVDCzhyGWG+foOdhnuIaIbgeP9I+ShYbJwpceF35owqEhw9v2XuXjx7uK5OEplNBmpVEe0f2ZU6kQoI8DXpCNUvP7C69Pk/741V7l9dMjQToZmdj8vsAcSG+zfzustyzqaMpRjWmX2oTsdfgDw0P41GRDJLm4B5b2DggdTLL3GGGTu3b9SVO58Y+rujARS+6FcmbRUQUj48QmC6IUsrfe6XW6Qq4LZ64oo3wawOEkGg/HWPxpoP86C0JaR0CCagQkiuz8a7Dho0lYllGOiXQdP8gHAiW16KdT5kYWl/v/5dtbGwVoqHkjlFq2nn0W+3gNhQ1VyMGT6rL9mTow2juVmhCs/OzxhK/SP1FFFQGS62cWIic328wVyj3lUY6e8UTbXBcpu3W5gTkPrm0DLR3TQs60QPCavr5qiXCroswC+4bh+J9Z0Jz0sXEeX0G5IwHrQDO92P29S3Pvj6XalfR9am8/3G/E6Jaz/bOgO3QSvBljq86o8wiu4YyPTL7XDbdyj/wOrT2RpM6U3/9nXww==
